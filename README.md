@@ -15,4 +15,4 @@ To run the script, you need to install `pip3 install unicorn_binance_websocket_a
 
 ![2.png](screen%2F2.png)
 
-To automatically start and use the script, you can use an example service unit
+To automatically start and use the script, you can use an example service [unit](https://github.com/mykola-riabov/crypto-alert/tree/main/unit)
